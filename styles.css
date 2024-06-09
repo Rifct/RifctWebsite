@@ -204,6 +204,8 @@ u {
     align-items: center;
     gap: 10px;
 
+
+
     font-family: lato;
 
 }
@@ -214,6 +216,9 @@ u {
     text-align: center;
     font-size: 120%;
     text-decoration: none;
+
+    position: relative;
+    z-index: 9999;
 
 }
 
